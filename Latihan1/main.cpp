@@ -11,7 +11,7 @@ int main() {
     cout << "Masukkan bilangsn 2: ";
     cin >> B;
 
-    cout << "Masukkan bilangan 2: ";
+    cout << "Masukkan bilangan 3: ";
     cin >> C;
 
     if (A > B) {
